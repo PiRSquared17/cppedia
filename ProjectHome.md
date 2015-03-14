@@ -1,0 +1,3 @@
+Cppedia is a development framework designed to ease the connection between C++ utilities and Wikimedia sites like Wikipedia. Designed for bots and editing assistants, cppedia is a cross-platform library in C++ that allows easy, safe access to the various APIs as well as common necessities such as monitoring of the recent change IRC feeds.
+
+This framework is designed to standardize and reduce the costs of making cross-platform C++ utilities for Wikimedia sites while offering a powerful interface.
